@@ -1,0 +1,58 @@
+# List of Animes
+
+- [ ] Assassination Classroom
+- [ ] Fullmetal Alchemist
+- [x] Death Note
+- [ ] Monster
+- [ ] Violet Evergarden
+- [ ] Erased
+- [ ] Hunter x Hunter
+- [ ] Haikyuu
+- [ ] Clannad
+- [x] Attack on Titan
+- [ ] Sword Art Online
+- [ ] Akame Ga Kill     
+- [ ] Parasite
+- [ ] Anohana
+- [ ] Cowboy Bebop
+- [ ] Steins Gate
+- [ ] Ao Ashi
+- [ ] Blue Lock
+- [ ] 3D Girlfriend (Time Pass Series)
+- [ ] Eighty Six
+- [ ] Re-Zero
+- [ ] Re-Life
+- [ ] 91 Days
+- [ ] Naruto (😶)
+- [x] One Piece (🔥)
+- [ ] Bleach (⚡)
+- [ ] Ao Haru Ride (Romantic timepass thing)
+- [x] Classroom of the Elite (Masterclass 🔥)
+- [ ] Dr. Stone (Must Watch)
+- [x] Demon Slayer (⚡)
+- [ ] Black Clover
+- [x] Jujutsu Kaisen (🔥)
+- [ ] Horimiya (Manga Recommended)
+- [ ] One Punch Man (🚶)
+- [ ] Mob Psycho 100 (🚶‍♂️)
+- [ ] Jojo's Bizzare Adventure
+- [ ] Irregular At Magic School (Timepass)
+- [ ] My Hero Academia 
+- [ ] Samurai X (Remake on the Way)
+- [ ] Fire Force (Must Watch)
+- [ ] Vinland Saga
+- [ ] Koruko's Basketball (Timepass)
+- [ ] The Misfit Of The Demon King Accademy
+- [ ] Tokyo Revengers (Interesting)
+- [ ] As The Moon So Beautiful (Romantic ❤️)
+- [ ] Darling In The Franxx (Zero Two 🤩)
+- [ ] Grand Blue
+- [ ] Say I Love You (Romantic)
+- [ ] No Game No Life (Not Interested)
+- [ ] Tokyo Ghoul
+- [ ] Spy x Family (Dropped)
+- [ ] Zom 100: Bucket List Of The Dead (🔥)
+- [ ] The Eminence in the Shadow
+- [x] Chainsaw Man (No Words)
+- [x] Shikimori Not Just Cutie (❤️)
+- [x] Your Lie in April (Not gonna watch again)
