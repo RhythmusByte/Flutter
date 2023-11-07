@@ -56,3 +56,4 @@
 - [x] Chainsaw Man (No Words)
 - [x] Shikimori Not Just Cutie (❤️)
 - [x] Your Lie in April (Not gonna watch again)
+- [x] Tonori No Seki-Kun (Master of Time Killing)
