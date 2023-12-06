@@ -28,7 +28,7 @@
 - [ ] Bleach (⚡)
 - [ ] Ao Haru Ride (Romantic timepass thing)
 - [x] Classroom of the Elite (Masterclass 🔥)
-- [ ] Dr. Stone (Must Watch)
+- [x] Dr. Stone (Must Watch)
 - [x] Demon Slayer (⚡)
 - [ ] Black Clover
 - [x] Jujutsu Kaisen (🔥)
@@ -50,8 +50,8 @@
 - [ ] Say I Love You (Romantic)
 - [ ] No Game No Life (Not Interested)
 - [ ] Tokyo Ghoul
-- [ ] Spy x Family (Dropped)
-- [ ] Zom 100: Bucket List Of The Dead (🔥)
+- [x] Spy x Family (Dropped)
+- [x] Zom 100: Bucket List Of The Dead (🔥)
 - [ ] The Eminence in the Shadow
 - [x] Chainsaw Man (No Words)
 - [x] Shikimori Not Just Cutie (❤️)
