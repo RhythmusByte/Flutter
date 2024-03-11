@@ -67,8 +67,4 @@
 - **Seek feedback:** Share your projects with peers or mentors to receive constructive feedback.
 - **Stay motivated:** Set realistic goals, track progress, and reward yourself for milestones achieved.
 
-### **Q1: How can I ensure I'm effectively applying the concepts learned in the projects?**
-
-### **Q2: Are there any additional resources or platforms I can utilize to enhance my learning experience?**
-
-### **Q3: How can I overcome challenges or roadblocks encountered during the learning process?**
+> View [Gemini AI's](https://github.com/RhythmusByte/Archieve/blob/main/Notepad/Gemini_AI/Python%26C.md) Response.
