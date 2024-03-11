@@ -1,4 +1,4 @@
-Learning both Python and C in 45 days thoroughly is ambitious, but achievable if you focus on the core concepts and practice consistently. Here's a possible schedule with daily goals, topics, and projects:
+> Learning both Python and C in 45 days thoroughly is ambitious, but achievable if you focus on the core concepts and practice consistently. Here's a possible schedule with daily goals, topics, and projects:
 
 **Week 1 (Focus: Python Basics)**
 
@@ -68,3 +68,5 @@ Learning both Python and C in 45 days thoroughly is ambitious, but achievable if
 * Practice consistently by solving coding problems online or from books.
 * Don't hesitate to seek help from online communities or forums.
 * Learning to program takes time and dedication. Celebrate small wins and be persistent!
+
+> View [Chat GPT's](https://github.com/RhythmusByte/Archieve/blob/4cbbd27584826bdba7bac48eb3435348513480c4/Notepad/ChatGPT/Python%26C.md) response.
