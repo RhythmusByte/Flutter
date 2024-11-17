@@ -1,11 +1,11 @@
 void main() {
   // Attributes
-  var myName = 'AlonePhilic';
-  print(myName);
+  var myName = 'Akhil Mahesh';
+  print('Attributes\nMy name is ' + myName);
   print(myName.length);
   
   // Methods
-  print('\n'+myName.toUpperCase());
+  print('\nMethods\n'+myName.toUpperCase());
   print(myName.toLowerCase());
 }
 
